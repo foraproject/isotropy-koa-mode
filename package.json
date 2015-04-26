@@ -1,7 +1,7 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "isotropy-koa-mode",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "description": "Isomorphic Routing and Content Serving for Koa with a generator based API.",
     "repository": {
         "type": "git",
